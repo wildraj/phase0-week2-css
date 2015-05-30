@@ -1,0 +1,56 @@
+html {
+  background-color: white;
+  color:#000080;
+}
+
+a:link {
+  color:#800080;
+}
+
+a:visited {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+div {
+  column-count: 2;
+  column-width: 100px;
+}
+
+.desc_text {
+  font-size: 10px;
+}
+
+#header {
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+
+.address {
+  text-align: center;
+  display: block;
+}
+
+#letter  {
+  font-size: 40px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul {
+  border-bottom: 1px solid #000;
+}
+
+.line {
+  border-bottom: 1px solid #000;
+  text-align: center;
+}
+
+img{
+  margin:auto;
+}
